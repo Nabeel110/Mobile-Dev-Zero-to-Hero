@@ -1,0 +1,27 @@
+ - Step : 1 Screens
+ - Step:  2 React-Native Navigatipn explore
+ - Step:  3 Connecting screens using react-native-navigation
+ - Step:  4 Custom BottomTabb Navigation and will make it usable (Will not be used in real life projects but good for learning)
+
+
+ <View>
+                {/* Icon 1 */}
+                <FontAwesome5 name="home" size={24} color="#000" />
+                {/* Text */}
+                <Text>Home</Text>
+            </View>
+
+            <View>
+                {/* Icon 2 */}
+                <FontAwesome5 name="search" size={24} color="#000" />
+                {/* Text */}
+                <Text>Search</Text>
+            </View>
+
+            <View>
+                {/* Icon 2 */}
+                <FontAwesome5 name="user" size={24} color="#000" />
+                {/* Text */}
+                <Text>Profile</Text>
+
+            </View>
